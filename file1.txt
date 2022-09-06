@@ -5,5 +5,8 @@ differences added
 Add another differences
 
 functionA(){
+
  Do fewthings
+ New line for bug2
+
 }
