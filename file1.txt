@@ -2,11 +2,11 @@ Welcome to GIT Session!!!
 Hello World
 Added changes
 differences added
-Add another differences
+Add another .Differences
 
 functionA(){
 
- Do fewthings
- New line for bug2
+ Do fewthings.
+ New line for bug2.
 
 }
