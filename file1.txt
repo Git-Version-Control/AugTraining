@@ -3,3 +3,7 @@ Hello World
 Added changes
 differences added
 Add another differences
+
+functionA(){
+ Do fewthings
+}
