@@ -3,3 +3,8 @@ Hello World
 Added changes
 differences added
 Add another differences
+
+functionA(){
+ Do something to fix bug1 & bug2
+ New line for bug2
+}
