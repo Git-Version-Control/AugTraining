@@ -10,3 +10,4 @@ functionA(){
  New line for bug2.
 
 }
+Modified to check the remote repo
